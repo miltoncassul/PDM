@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VamosRacharAdaptativoAcessível</string>
+    <string name="app_name_menu">Vamos Rachar!</string>
+    <string name="dica_valor">Digite o valor</string>
+    <string name="dica_qtdPessoas">Quantidade de pessoas</string>
+    <string name="access_share">Compartilhe o valor</string>
+    <string name="access_tts">Ouça o valor</string>
+</resources>

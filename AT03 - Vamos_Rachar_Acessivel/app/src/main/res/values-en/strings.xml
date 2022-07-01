@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LetsSplitAdaptiveAccessible</string>
+    <string name="app_name_menu">Let\'s Split!</string>
+    <string name="dica_valor">Enter the value</string>
+    <string name="dica_qtdPessoas">Amount of people</string>
+    <string name="access_share">Share the value</string>
+    <string name="access_tts">Hear the value</string>
+</resources>
