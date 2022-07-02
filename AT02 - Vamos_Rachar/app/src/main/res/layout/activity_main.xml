@@ -4,38 +4,49 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#5F3284"
-    tools:context=".MainActivity">
+    android:background="#7E5333"
+    tools:context=".MainActivity"><![CDATA[
+
+
+
+
+        app:srcCompat="@drawable/ic_money_foreground" />
+
+
+
+
+
+
+
+    ]]>
 
     <ImageView
         android:id="@+id/vamosRacharLogo"
         android:layout_width="301dp"
         android:layout_height="200dp"
-        android:background="#5F3284"
+        android:background="#7E5333"
         android:contentDescription="Vamos Rachar!"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/ic_vamos_rachar_foreground"
-        tools:layout_editor_absoluteY="3dp" />
+        tools:layout_editor_absoluteY="7dp" />
 
     <ImageView
         android:id="@+id/moneyImage"
         android:layout_width="81dp"
         android:layout_height="84dp"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="4dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.222"
+        app:layout_constraintHorizontal_bias="0.11"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/vamosRacharLogo"
-        app:srcCompat="@drawable/ic_money_foreground" />
         app:srcCompat="@drawable/ic_money_foreground" />
 
     <ImageView
         android:id="@+id/peopleImage"
         android:layout_width="82dp"
         android:layout_height="84dp"
-        android:layout_marginStart="72dp"
+        android:layout_marginStart="40dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/moneyImage"
         app:srcCompat="@drawable/ic_group_foreground" />
@@ -45,8 +56,8 @@
         style="@style/Widget.Design.TextInputEditText"
         android:layout_width="157dp"
         android:layout_height="47dp"
-        android:layout_marginTop="44dp"
-        android:backgroundTint="#9263BE"
+        android:layout_marginTop="24dp"
+        android:backgroundTint="#442E26"
         android:ems="10"
         android:gravity="center"
         android:inputType="numberDecimal"
@@ -55,7 +66,7 @@
         android:textColorHint="#FFFFFF"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.282"
+        app:layout_constraintHorizontal_bias="0.311"
         app:layout_constraintStart_toEndOf="@+id/moneyImage"
         app:layout_constraintTop_toBottomOf="@+id/vamosRacharLogo" />
 
@@ -64,7 +75,7 @@
         android:layout_width="153dp"
         android:layout_height="62dp"
         android:layout_marginTop="24dp"
-        android:backgroundTint="#9263BE"
+        android:backgroundTint="#442E26"
         android:ems="10"
         android:gravity="center"
         android:inputType="number"
@@ -92,17 +103,17 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editPeopleNumber"
-        app:layout_constraintVertical_bias="0.87" />
+        app:layout_constraintVertical_bias="0.0" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/shareFloatingActionButton"
         android:layout_width="66dp"
         android:layout_height="58dp"
         android:layout_marginStart="84dp"
-        android:layout_marginTop="148dp"
+        android:layout_marginTop="144dp"
         android:background="#9263BE"
         android:clickable="true"
-        app:backgroundTint="#9263be"
+        app:backgroundTint="#442E26"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/peopleImage"
         app:maxImageSize="80dp"
@@ -115,9 +126,9 @@
         android:layout_height="61dp"
         android:layout_marginTop="156dp"
         android:clickable="true"
-        app:backgroundTint="#9263be"
+        app:backgroundTint="#442E26"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.646"
+        app:layout_constraintHorizontal_bias="0.656"
         app:layout_constraintStart_toEndOf="@+id/shareFloatingActionButton"
         app:layout_constraintTop_toBottomOf="@+id/editPeopleNumber"
         app:maxImageSize="80dp"

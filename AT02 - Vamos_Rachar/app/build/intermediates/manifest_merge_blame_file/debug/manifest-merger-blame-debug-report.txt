@@ -15,7 +15,7 @@
 12        android:allowBackup="true"
 12-->/Users/cassul/Documents/GitHub/PDM/AT02 - Vamos_Rachar/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.2.0] /Users/cassul/.gradle/caches/transforms-2/files-2.1/4527d81fa1dab2c4adef56282f6f51b4/core-1.2.0/AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.2.0] /Users/cassul/.gradle/caches/transforms-3/393d5deb4961756dfc098ec7aca7537e/transformed/core-1.2.0/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
 16        android:icon="@mipmap/ic_launcher"
