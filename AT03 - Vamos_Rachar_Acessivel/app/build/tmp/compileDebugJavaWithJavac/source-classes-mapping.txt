@@ -1,4 +1,0 @@
-com/example/vamosracharadaptativoacessivel/BuildConfig.java
- com.example.vamosracharadaptativoacessivel.BuildConfig
-com/example/vamosracharadaptativoacessivel/MainActivity.java
- com.example.vamosracharadaptativoacessivel.MainActivity
