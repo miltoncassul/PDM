@@ -1,0 +1,18 @@
+com.example.vamosrachar.app-appcompat-1.1.0-0 /Users/cassul/.gradle/caches/transforms-3/119525dc8ea2d8f50703adbb5133ebad/transformed/appcompat-1.1.0/res
+com.example.vamosrachar.app-core-1.2.0-1 /Users/cassul/.gradle/caches/transforms-3/393d5deb4961756dfc098ec7aca7537e/transformed/core-1.2.0/res
+com.example.vamosrachar.app-jetified-appcompat-resources-1.1.0-2 /Users/cassul/.gradle/caches/transforms-3/4429f64555ed9d36388ad4b5b0c32434/transformed/jetified-appcompat-resources-1.1.0/res
+com.example.vamosrachar.app-transition-1.2.0-3 /Users/cassul/.gradle/caches/transforms-3/44f59b81c87b69ad5a2c3b803c83780d/transformed/transition-1.2.0/res
+com.example.vamosrachar.app-material-1.2.0-4 /Users/cassul/.gradle/caches/transforms-3/67305f0b022f20fd24650d47104caabb/transformed/material-1.2.0/res
+com.example.vamosrachar.app-jetified-viewpager2-1.0.0-5 /Users/cassul/.gradle/caches/transforms-3/72de3ad0e7ea8651a6e87e246ac967c6/transformed/jetified-viewpager2-1.0.0/res
+com.example.vamosrachar.app-cardview-1.0.0-6 /Users/cassul/.gradle/caches/transforms-3/7c7a8c29ecce42e20d903e3a51f8df85/transformed/cardview-1.0.0/res
+com.example.vamosrachar.app-coordinatorlayout-1.1.0-7 /Users/cassul/.gradle/caches/transforms-3/8a6303413022a75475e0d43fea7dc5ec/transformed/coordinatorlayout-1.1.0/res
+com.example.vamosrachar.app-recyclerview-1.1.0-8 /Users/cassul/.gradle/caches/transforms-3/d55f9b1c6cb2370e24af439e7aff662a/transformed/recyclerview-1.1.0/res
+com.example.vamosrachar.app-constraintlayout-1.1.3-9 /Users/cassul/.gradle/caches/transforms-3/ed17b228528a4ae462a20d34a093e396/transformed/constraintlayout-1.1.3/res
+com.example.vamosrachar.app-pngs-10 /Users/cassul/Documents/GitHub/PDM/AT02 - Vamos_Rachar/app/build/generated/res/pngs/debug
+com.example.vamosrachar.app-resValues-11 /Users/cassul/Documents/GitHub/PDM/AT02 - Vamos_Rachar/app/build/generated/res/resValues/debug
+com.example.vamosrachar.app-rs-12 /Users/cassul/Documents/GitHub/PDM/AT02 - Vamos_Rachar/app/build/generated/res/rs/debug
+com.example.vamosrachar.app-mergeDebugResources-13 /Users/cassul/Documents/GitHub/PDM/AT02 - Vamos_Rachar/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.vamosrachar.app-mergeDebugResources-14 /Users/cassul/Documents/GitHub/PDM/AT02 - Vamos_Rachar/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.vamosrachar.app-merged_res-15 /Users/cassul/Documents/GitHub/PDM/AT02 - Vamos_Rachar/app/build/intermediates/merged_res/debug
+com.example.vamosrachar.app-debug-16 /Users/cassul/Documents/GitHub/PDM/AT02 - Vamos_Rachar/app/src/debug/res
+com.example.vamosrachar.app-main-17 /Users/cassul/Documents/GitHub/PDM/AT02 - Vamos_Rachar/app/src/main/res
