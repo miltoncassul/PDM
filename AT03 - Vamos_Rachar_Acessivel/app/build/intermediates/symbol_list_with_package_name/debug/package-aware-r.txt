@@ -1651,7 +1651,6 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable gradient
 drawable group
-drawable group1
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_foreground
@@ -1692,7 +1691,6 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable real
-drawable real2
 drawable share2
 drawable test_custom_background
 drawable tooltip_frame_dark

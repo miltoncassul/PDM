@@ -1,4 +1,4 @@
-#Fri Jul 01 23:12:28 BRT 2022
+#Sat Jul 02 11:14:43 BRT 2022
 base.2=/Users/cassul/Documents/GitHub/PDM/AT03 - Vamos_Rachar_Acessivel/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
 path.2=12/classes.dex
 base.1=/Users/cassul/Documents/GitHub/PDM/AT03 - Vamos_Rachar_Acessivel/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
