@@ -1,3 +1,3 @@
-# vamos rachar
+#VAMOS RACHAR
 
-App feito como atividade da disciplina de PDM - UFC
+Este App foi feito com a finalidade de colocar em prática os conhecimentos estudados na disciplica de programação para dispositivos moveis
