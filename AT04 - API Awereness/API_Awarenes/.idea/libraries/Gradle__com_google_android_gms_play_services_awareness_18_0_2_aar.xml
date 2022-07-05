@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-awareness:18.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/038503e9f82fdf11a36c526dadba3e1e/transformed/play-services-awareness-18.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/09a8ca99432bc3be8bed9d5737370be5/transformed/play-services-awareness-18.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/09a8ca99432bc3be8bed9d5737370be5/transformed/play-services-awareness-18.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/09a8ca99432bc3be8bed9d5737370be5/transformed/play-services-awareness-18.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/09a8ca99432bc3be8bed9d5737370be5/transformed/play-services-awareness-18.0.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-awareness/18.0.2/4f5cf45fcd6ce7de086626ea6c95abd4efea83b8/play-services-awareness-18.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

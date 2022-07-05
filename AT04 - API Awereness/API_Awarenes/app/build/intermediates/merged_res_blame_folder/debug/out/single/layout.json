@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.awareness_api.app-mergeDebugResources-33:/layout/activity_maps.xml",
+        "source": "com.example.awareness_api.app-main-36:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/Users/cassul/.gradle/daemon/7.3.3/com.example.awareness_api.app-mergeDebugResources-33:/layout/activity_maps.xml",
+        "source": "/Users/cassul/.gradle/daemon/7.3.3/com.example.awareness_api.app-main-36:/layout/activity_maps.xml"
+    }
+]

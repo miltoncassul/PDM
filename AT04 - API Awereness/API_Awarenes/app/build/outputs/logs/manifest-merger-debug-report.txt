@@ -1,0 +1,371 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [androidx.databinding:viewbinding:7.2.1] /Users/cassul/.gradle/caches/transforms-3/2df899ba0fd84e15c6d8363a2259f96b/transformed/viewbinding-7.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/cassul/.gradle/caches/transforms-3/54f1b20d890c098b7ac974a1f1a1e3fb/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/cassul/.gradle/caches/transforms-3/a07bc26d34c3c48591e0f8749f1cf839/transformed/fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/cassul/.gradle/caches/transforms-3/ecd16cab4eca7f57ec635db5805799ff/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/cassul/.gradle/caches/transforms-3/f30f2c20819f6cc8143758ea5fe4834a/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/cassul/.gradle/caches/transforms-3/4628df439925f40b0c99804de540bbb1/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/cassul/.gradle/caches/transforms-3/7bd3ca20ef0162789d002a936b98d387/transformed/activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/cassul/.gradle/caches/transforms-3/17ac936ad790a79c8f2afbeba0c1d49a/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/cassul/.gradle/caches/transforms-3/930327ad78b80898b86aa57da1663910/transformed/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.0] /Users/cassul/.gradle/caches/transforms-3/49184359f69952c64b20c2b8cdd862dc/transformed/material-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/cassul/.gradle/caches/transforms-3/057848a2fbb128f3ef3c686eaf0d4bad/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/cassul/.gradle/caches/transforms-3/19803f072bcf19bba30247438196e2b6/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:18.0.2] /Users/cassul/.gradle/caches/transforms-3/09a8ca99432bc3be8bed9d5737370be5/transformed/play-services-awareness-18.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places:17.0.0] /Users/cassul/.gradle/caches/transforms-3/ea9b5e9da308ba1b64be938c62cc3784/transformed/play-services-places-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/cassul/.gradle/caches/transforms-3/f48191a82bc284880db018f5a8bde3c3/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/cassul/.gradle/caches/transforms-3/ac9070e294f249e9614ef04dea029f1f/transformed/play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/cassul/.gradle/caches/transforms-3/e7196b29564085b9b708eb8fe1080999/transformed/play-services-base-17.5.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/cassul/.gradle/caches/transforms-3/c68607aa38dee5a7e4da983885b52c98/transformed/play-services-tasks-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/cassul/.gradle/caches/transforms-3/5611ad0d5d020a27a79d369d5bf185b6/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/cassul/.gradle/caches/transforms-3/445ab4f189d8e00675665575ec73a25d/transformed/play-services-basement-17.5.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/cassul/.gradle/caches/transforms-3/bbde639b9184ef16834ebde71faff6fd/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/cassul/.gradle/caches/transforms-3/ac268749b16f8b70aa9f1abf436e1144/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/cassul/.gradle/caches/transforms-3/885c08e87a268d362f7f9f426940c7ea/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/cassul/.gradle/caches/transforms-3/c04122ef085108c957b2242964e9f288/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/cassul/.gradle/caches/transforms-3/e757ee07648c2a824b0385a50c814ae9/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/cassul/.gradle/caches/transforms-3/74b5cd5fad56d2151960c29d72e1ec19/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/cassul/.gradle/caches/transforms-3/4be25d346253d0b6b168d5b53939e7d9/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/cassul/.gradle/caches/transforms-3/4e5673777d767e2df04b87a0d78a61c9/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/cassul/.gradle/caches/transforms-3/a4a8c4686b98d404ed87190c613a1bc5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/cassul/.gradle/caches/transforms-3/9155cc4942a6e8007f45611e8ed54549/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/cassul/.gradle/caches/transforms-3/346c27a469290184bda0e6ed90d208ee/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/cassul/.gradle/caches/transforms-3/9126ccfd0313350b3ca5545b7da17497/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cassul/.gradle/caches/transforms-3/167989e14d8880e395c00d6b754e3063/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/cassul/.gradle/caches/transforms-3/bbeba7c4c349204d35424f4f2e7a8751/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/cassul/.gradle/caches/transforms-3/e07021f51133cc6e85c505428851592f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/cassul/.gradle/caches/transforms-3/855377ad3c086035c59ade5250339146/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/cassul/.gradle/caches/transforms-3/cf6b925993d6c3464ba2869466fa463f/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/cassul/.gradle/caches/transforms-3/899f763a29a5b90921d0405c383b9a0d/transformed/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/cassul/.gradle/caches/transforms-3/ccbf4ad77019c1f5f7dc43a1276fc195/transformed/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/cassul/.gradle/caches/transforms-3/4008f067059f780e10a3f24ec45d6988/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/cassul/.gradle/caches/transforms-3/194b15fa939903321583c4da8657a4c0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/cassul/.gradle/caches/transforms-3/21b28e066e27e48b293cc0a8cfc0945c/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/cassul/.gradle/caches/transforms-3/0bc640c7d96cf0ca8b549cfb2d284e45/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/cassul/.gradle/caches/transforms-3/c7693771489e084d1b853b0b7b1f5122/transformed/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/cassul/.gradle/caches/transforms-3/e90c8f62117d1368b4842b7af210347d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/cassul/.gradle/caches/transforms-3/3cbd151552b555855db3857ce3a69c8a/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cassul/.gradle/caches/transforms-3/9e07d6f2377d956f2be6feeb21483000/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cassul/.gradle/caches/transforms-3/b991e0d76cee696efc06cadec580139b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/cassul/.gradle/caches/transforms-3/64bf4187ba851c6df4ee7c892b760365/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/cassul/.gradle/caches/transforms-3/56ae88e108ecdb1bdab585ebccc3bea4/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/cassul/.gradle/caches/transforms-3/f7d165c0c0132bdf4574838ccc63ae71/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/cassul/.gradle/caches/transforms-3/5fe585381c1beeccc112cbb532f90a1c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/cassul/.gradle/caches/transforms-3/2f4d97bf26405f7b1cf89ccfc9012fd6/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/cassul/.gradle/caches/transforms-3/1be5ded50815c9fccd0d737fe2c22d7f/transformed/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/cassul/.gradle/caches/transforms-3/b2f1ff6dfeb7e2a8d95aa875c4fd86fd/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/cassul/.gradle/caches/transforms-3/7698093819ee9808b87fe3b4af3b6bf5/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cassul/.gradle/caches/transforms-3/a84939bb3e242122b69f004964d84f29/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/cassul/.gradle/caches/transforms-3/277c9f4f42254e942bb61fc375047801/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/cassul/.gradle/caches/transforms-3/4d7d8f24454f461118d7a7301687407b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/cassul/.gradle/caches/transforms-3/7624dd677967fcfdb6379de8fb0bac99/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/cassul/.gradle/caches/transforms-3/a882b483466cf7b38c6877e3e29ab58b/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:7:5-94
+	android:name
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:7:22-91
+application
+ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:9:5-42:19
+MERGED from [com.google.android.material:material:1.6.0] /Users/cassul/.gradle/caches/transforms-3/49184359f69952c64b20c2b8cdd862dc/transformed/material-1.6.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.0] /Users/cassul/.gradle/caches/transforms-3/49184359f69952c64b20c2b8cdd862dc/transformed/material-1.6.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/cassul/.gradle/caches/transforms-3/057848a2fbb128f3ef3c686eaf0d4bad/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/cassul/.gradle/caches/transforms-3/057848a2fbb128f3ef3c686eaf0d4bad/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-awareness:18.0.2] /Users/cassul/.gradle/caches/transforms-3/09a8ca99432bc3be8bed9d5737370be5/transformed/play-services-awareness-18.0.2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:18.0.2] /Users/cassul/.gradle/caches/transforms-3/09a8ca99432bc3be8bed9d5737370be5/transformed/play-services-awareness-18.0.2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:17.0.0] /Users/cassul/.gradle/caches/transforms-3/ea9b5e9da308ba1b64be938c62cc3784/transformed/play-services-places-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:17.0.0] /Users/cassul/.gradle/caches/transforms-3/ea9b5e9da308ba1b64be938c62cc3784/transformed/play-services-places-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/cassul/.gradle/caches/transforms-3/ac9070e294f249e9614ef04dea029f1f/transformed/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/cassul/.gradle/caches/transforms-3/ac9070e294f249e9614ef04dea029f1f/transformed/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/cassul/.gradle/caches/transforms-3/e7196b29564085b9b708eb8fe1080999/transformed/play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/cassul/.gradle/caches/transforms-3/e7196b29564085b9b708eb8fe1080999/transformed/play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/cassul/.gradle/caches/transforms-3/c68607aa38dee5a7e4da983885b52c98/transformed/play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/cassul/.gradle/caches/transforms-3/c68607aa38dee5a7e4da983885b52c98/transformed/play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/cassul/.gradle/caches/transforms-3/5611ad0d5d020a27a79d369d5bf185b6/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/cassul/.gradle/caches/transforms-3/5611ad0d5d020a27a79d369d5bf185b6/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/cassul/.gradle/caches/transforms-3/445ab4f189d8e00675665575ec73a25d/transformed/play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/cassul/.gradle/caches/transforms-3/445ab4f189d8e00675665575ec73a25d/transformed/play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/cassul/.gradle/caches/transforms-3/4be25d346253d0b6b168d5b53939e7d9/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/cassul/.gradle/caches/transforms-3/4be25d346253d0b6b168d5b53939e7d9/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/cassul/.gradle/caches/transforms-3/4008f067059f780e10a3f24ec45d6988/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/cassul/.gradle/caches/transforms-3/4008f067059f780e10a3f24ec45d6988/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cassul/.gradle/caches/transforms-3/9e07d6f2377d956f2be6feeb21483000/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cassul/.gradle/caches/transforms-3/9e07d6f2377d956f2be6feeb21483000/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cassul/.gradle/caches/transforms-3/b991e0d76cee696efc06cadec580139b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cassul/.gradle/caches/transforms-3/b991e0d76cee696efc06cadec580139b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/cassul/.gradle/caches/transforms-3/64bf4187ba851c6df4ee7c892b760365/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/cassul/.gradle/caches/transforms-3/64bf4187ba851c6df4ee7c892b760365/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/cassul/.gradle/caches/transforms-3/4008f067059f780e10a3f24ec45d6988/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:15:9-51
+meta-data#com.google.android.awareness.API_KEY
+ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:28:9-30:71
+	android:value
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:30:13-68
+	android:name
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:29:13-64
+activity#com.example.awareness_api.MainActivity
+ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:32:9-41:20
+	android:label
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:35:13-56
+	android:exported
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:33:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.1] /Users/cassul/.gradle/caches/transforms-3/2df899ba0fd84e15c6d8363a2259f96b/transformed/viewbinding-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] /Users/cassul/.gradle/caches/transforms-3/2df899ba0fd84e15c6d8363a2259f96b/transformed/viewbinding-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/cassul/.gradle/caches/transforms-3/54f1b20d890c098b7ac974a1f1a1e3fb/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/cassul/.gradle/caches/transforms-3/54f1b20d890c098b7ac974a1f1a1e3fb/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/cassul/.gradle/caches/transforms-3/a07bc26d34c3c48591e0f8749f1cf839/transformed/fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/cassul/.gradle/caches/transforms-3/a07bc26d34c3c48591e0f8749f1cf839/transformed/fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/cassul/.gradle/caches/transforms-3/ecd16cab4eca7f57ec635db5805799ff/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/cassul/.gradle/caches/transforms-3/ecd16cab4eca7f57ec635db5805799ff/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/cassul/.gradle/caches/transforms-3/f30f2c20819f6cc8143758ea5fe4834a/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/cassul/.gradle/caches/transforms-3/f30f2c20819f6cc8143758ea5fe4834a/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/cassul/.gradle/caches/transforms-3/4628df439925f40b0c99804de540bbb1/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/cassul/.gradle/caches/transforms-3/4628df439925f40b0c99804de540bbb1/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/cassul/.gradle/caches/transforms-3/7bd3ca20ef0162789d002a936b98d387/transformed/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/cassul/.gradle/caches/transforms-3/7bd3ca20ef0162789d002a936b98d387/transformed/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/cassul/.gradle/caches/transforms-3/17ac936ad790a79c8f2afbeba0c1d49a/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/cassul/.gradle/caches/transforms-3/17ac936ad790a79c8f2afbeba0c1d49a/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/cassul/.gradle/caches/transforms-3/930327ad78b80898b86aa57da1663910/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/cassul/.gradle/caches/transforms-3/930327ad78b80898b86aa57da1663910/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] /Users/cassul/.gradle/caches/transforms-3/49184359f69952c64b20c2b8cdd862dc/transformed/material-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] /Users/cassul/.gradle/caches/transforms-3/49184359f69952c64b20c2b8cdd862dc/transformed/material-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/cassul/.gradle/caches/transforms-3/057848a2fbb128f3ef3c686eaf0d4bad/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/cassul/.gradle/caches/transforms-3/057848a2fbb128f3ef3c686eaf0d4bad/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/cassul/.gradle/caches/transforms-3/19803f072bcf19bba30247438196e2b6/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/cassul/.gradle/caches/transforms-3/19803f072bcf19bba30247438196e2b6/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-awareness:18.0.2] /Users/cassul/.gradle/caches/transforms-3/09a8ca99432bc3be8bed9d5737370be5/transformed/play-services-awareness-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:18.0.2] /Users/cassul/.gradle/caches/transforms-3/09a8ca99432bc3be8bed9d5737370be5/transformed/play-services-awareness-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:17.0.0] /Users/cassul/.gradle/caches/transforms-3/ea9b5e9da308ba1b64be938c62cc3784/transformed/play-services-places-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:17.0.0] /Users/cassul/.gradle/caches/transforms-3/ea9b5e9da308ba1b64be938c62cc3784/transformed/play-services-places-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/cassul/.gradle/caches/transforms-3/f48191a82bc284880db018f5a8bde3c3/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/cassul/.gradle/caches/transforms-3/f48191a82bc284880db018f5a8bde3c3/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/cassul/.gradle/caches/transforms-3/ac9070e294f249e9614ef04dea029f1f/transformed/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/cassul/.gradle/caches/transforms-3/ac9070e294f249e9614ef04dea029f1f/transformed/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/cassul/.gradle/caches/transforms-3/e7196b29564085b9b708eb8fe1080999/transformed/play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/cassul/.gradle/caches/transforms-3/e7196b29564085b9b708eb8fe1080999/transformed/play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/cassul/.gradle/caches/transforms-3/c68607aa38dee5a7e4da983885b52c98/transformed/play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/cassul/.gradle/caches/transforms-3/c68607aa38dee5a7e4da983885b52c98/transformed/play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/cassul/.gradle/caches/transforms-3/5611ad0d5d020a27a79d369d5bf185b6/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/cassul/.gradle/caches/transforms-3/5611ad0d5d020a27a79d369d5bf185b6/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/cassul/.gradle/caches/transforms-3/445ab4f189d8e00675665575ec73a25d/transformed/play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/cassul/.gradle/caches/transforms-3/445ab4f189d8e00675665575ec73a25d/transformed/play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/cassul/.gradle/caches/transforms-3/bbde639b9184ef16834ebde71faff6fd/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/cassul/.gradle/caches/transforms-3/bbde639b9184ef16834ebde71faff6fd/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/cassul/.gradle/caches/transforms-3/ac268749b16f8b70aa9f1abf436e1144/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/cassul/.gradle/caches/transforms-3/ac268749b16f8b70aa9f1abf436e1144/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/cassul/.gradle/caches/transforms-3/885c08e87a268d362f7f9f426940c7ea/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/cassul/.gradle/caches/transforms-3/885c08e87a268d362f7f9f426940c7ea/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/cassul/.gradle/caches/transforms-3/c04122ef085108c957b2242964e9f288/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/cassul/.gradle/caches/transforms-3/c04122ef085108c957b2242964e9f288/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/cassul/.gradle/caches/transforms-3/e757ee07648c2a824b0385a50c814ae9/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/cassul/.gradle/caches/transforms-3/e757ee07648c2a824b0385a50c814ae9/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/cassul/.gradle/caches/transforms-3/74b5cd5fad56d2151960c29d72e1ec19/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/cassul/.gradle/caches/transforms-3/74b5cd5fad56d2151960c29d72e1ec19/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/cassul/.gradle/caches/transforms-3/4be25d346253d0b6b168d5b53939e7d9/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/cassul/.gradle/caches/transforms-3/4be25d346253d0b6b168d5b53939e7d9/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/cassul/.gradle/caches/transforms-3/4e5673777d767e2df04b87a0d78a61c9/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/cassul/.gradle/caches/transforms-3/4e5673777d767e2df04b87a0d78a61c9/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/cassul/.gradle/caches/transforms-3/a4a8c4686b98d404ed87190c613a1bc5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/cassul/.gradle/caches/transforms-3/a4a8c4686b98d404ed87190c613a1bc5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/cassul/.gradle/caches/transforms-3/9155cc4942a6e8007f45611e8ed54549/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/cassul/.gradle/caches/transforms-3/9155cc4942a6e8007f45611e8ed54549/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/cassul/.gradle/caches/transforms-3/346c27a469290184bda0e6ed90d208ee/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/cassul/.gradle/caches/transforms-3/346c27a469290184bda0e6ed90d208ee/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/cassul/.gradle/caches/transforms-3/9126ccfd0313350b3ca5545b7da17497/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/cassul/.gradle/caches/transforms-3/9126ccfd0313350b3ca5545b7da17497/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cassul/.gradle/caches/transforms-3/167989e14d8880e395c00d6b754e3063/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cassul/.gradle/caches/transforms-3/167989e14d8880e395c00d6b754e3063/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/cassul/.gradle/caches/transforms-3/bbeba7c4c349204d35424f4f2e7a8751/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/cassul/.gradle/caches/transforms-3/bbeba7c4c349204d35424f4f2e7a8751/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/cassul/.gradle/caches/transforms-3/e07021f51133cc6e85c505428851592f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/cassul/.gradle/caches/transforms-3/e07021f51133cc6e85c505428851592f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/cassul/.gradle/caches/transforms-3/855377ad3c086035c59ade5250339146/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/cassul/.gradle/caches/transforms-3/855377ad3c086035c59ade5250339146/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/cassul/.gradle/caches/transforms-3/cf6b925993d6c3464ba2869466fa463f/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/cassul/.gradle/caches/transforms-3/cf6b925993d6c3464ba2869466fa463f/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/cassul/.gradle/caches/transforms-3/899f763a29a5b90921d0405c383b9a0d/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/cassul/.gradle/caches/transforms-3/899f763a29a5b90921d0405c383b9a0d/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/cassul/.gradle/caches/transforms-3/ccbf4ad77019c1f5f7dc43a1276fc195/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/cassul/.gradle/caches/transforms-3/ccbf4ad77019c1f5f7dc43a1276fc195/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/cassul/.gradle/caches/transforms-3/4008f067059f780e10a3f24ec45d6988/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/cassul/.gradle/caches/transforms-3/4008f067059f780e10a3f24ec45d6988/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/cassul/.gradle/caches/transforms-3/194b15fa939903321583c4da8657a4c0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/cassul/.gradle/caches/transforms-3/194b15fa939903321583c4da8657a4c0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/cassul/.gradle/caches/transforms-3/21b28e066e27e48b293cc0a8cfc0945c/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/cassul/.gradle/caches/transforms-3/21b28e066e27e48b293cc0a8cfc0945c/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/cassul/.gradle/caches/transforms-3/0bc640c7d96cf0ca8b549cfb2d284e45/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/cassul/.gradle/caches/transforms-3/0bc640c7d96cf0ca8b549cfb2d284e45/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/cassul/.gradle/caches/transforms-3/c7693771489e084d1b853b0b7b1f5122/transformed/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/cassul/.gradle/caches/transforms-3/c7693771489e084d1b853b0b7b1f5122/transformed/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/cassul/.gradle/caches/transforms-3/e90c8f62117d1368b4842b7af210347d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/cassul/.gradle/caches/transforms-3/e90c8f62117d1368b4842b7af210347d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/cassul/.gradle/caches/transforms-3/3cbd151552b555855db3857ce3a69c8a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/cassul/.gradle/caches/transforms-3/3cbd151552b555855db3857ce3a69c8a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cassul/.gradle/caches/transforms-3/9e07d6f2377d956f2be6feeb21483000/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cassul/.gradle/caches/transforms-3/9e07d6f2377d956f2be6feeb21483000/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cassul/.gradle/caches/transforms-3/b991e0d76cee696efc06cadec580139b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cassul/.gradle/caches/transforms-3/b991e0d76cee696efc06cadec580139b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/cassul/.gradle/caches/transforms-3/64bf4187ba851c6df4ee7c892b760365/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/cassul/.gradle/caches/transforms-3/64bf4187ba851c6df4ee7c892b760365/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/cassul/.gradle/caches/transforms-3/56ae88e108ecdb1bdab585ebccc3bea4/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/cassul/.gradle/caches/transforms-3/56ae88e108ecdb1bdab585ebccc3bea4/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/cassul/.gradle/caches/transforms-3/f7d165c0c0132bdf4574838ccc63ae71/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/cassul/.gradle/caches/transforms-3/f7d165c0c0132bdf4574838ccc63ae71/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/cassul/.gradle/caches/transforms-3/5fe585381c1beeccc112cbb532f90a1c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/cassul/.gradle/caches/transforms-3/5fe585381c1beeccc112cbb532f90a1c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/cassul/.gradle/caches/transforms-3/2f4d97bf26405f7b1cf89ccfc9012fd6/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/cassul/.gradle/caches/transforms-3/2f4d97bf26405f7b1cf89ccfc9012fd6/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/cassul/.gradle/caches/transforms-3/1be5ded50815c9fccd0d737fe2c22d7f/transformed/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/cassul/.gradle/caches/transforms-3/1be5ded50815c9fccd0d737fe2c22d7f/transformed/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/cassul/.gradle/caches/transforms-3/b2f1ff6dfeb7e2a8d95aa875c4fd86fd/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/cassul/.gradle/caches/transforms-3/b2f1ff6dfeb7e2a8d95aa875c4fd86fd/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/cassul/.gradle/caches/transforms-3/7698093819ee9808b87fe3b4af3b6bf5/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/cassul/.gradle/caches/transforms-3/7698093819ee9808b87fe3b4af3b6bf5/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cassul/.gradle/caches/transforms-3/a84939bb3e242122b69f004964d84f29/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cassul/.gradle/caches/transforms-3/a84939bb3e242122b69f004964d84f29/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/cassul/.gradle/caches/transforms-3/277c9f4f42254e942bb61fc375047801/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/cassul/.gradle/caches/transforms-3/277c9f4f42254e942bb61fc375047801/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/cassul/.gradle/caches/transforms-3/4d7d8f24454f461118d7a7301687407b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/cassul/.gradle/caches/transforms-3/4d7d8f24454f461118d7a7301687407b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/cassul/.gradle/caches/transforms-3/7624dd677967fcfdb6379de8fb0bac99/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/cassul/.gradle/caches/transforms-3/7624dd677967fcfdb6379de8fb0bac99/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/cassul/.gradle/caches/transforms-3/a882b483466cf7b38c6877e3e29ab58b/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/cassul/.gradle/caches/transforms-3/a882b483466cf7b38c6877e3e29ab58b/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cassul/Downloads/Google_Awareness_API-P-blico-main/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.1] /Users/cassul/.gradle/caches/transforms-3/44dc26faf386ab5b263da965f6c90f70/transformed/play-services-maps-17.0.1/AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/cassul/.gradle/caches/transforms-3/e7196b29564085b9b708eb8fe1080999/transformed/play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/cassul/.gradle/caches/transforms-3/e7196b29564085b9b708eb8fe1080999/transformed/play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/cassul/.gradle/caches/transforms-3/e7196b29564085b9b708eb8fe1080999/transformed/play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/cassul/.gradle/caches/transforms-3/e7196b29564085b9b708eb8fe1080999/transformed/play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/cassul/.gradle/caches/transforms-3/445ab4f189d8e00675665575ec73a25d/transformed/play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/cassul/.gradle/caches/transforms-3/445ab4f189d8e00675665575ec73a25d/transformed/play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/cassul/.gradle/caches/transforms-3/445ab4f189d8e00675665575ec73a25d/transformed/play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/cassul/.gradle/caches/transforms-3/4be25d346253d0b6b168d5b53939e7d9/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cassul/.gradle/caches/transforms-3/b991e0d76cee696efc06cadec580139b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cassul/.gradle/caches/transforms-3/b991e0d76cee696efc06cadec580139b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/cassul/.gradle/caches/transforms-3/64bf4187ba851c6df4ee7c892b760365/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/cassul/.gradle/caches/transforms-3/64bf4187ba851c6df4ee7c892b760365/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/cassul/.gradle/caches/transforms-3/4be25d346253d0b6b168d5b53939e7d9/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/cassul/.gradle/caches/transforms-3/4be25d346253d0b6b168d5b53939e7d9/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/cassul/.gradle/caches/transforms-3/4be25d346253d0b6b168d5b53939e7d9/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/cassul/.gradle/caches/transforms-3/4be25d346253d0b6b168d5b53939e7d9/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/cassul/.gradle/caches/transforms-3/4be25d346253d0b6b168d5b53939e7d9/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/cassul/.gradle/caches/transforms-3/4be25d346253d0b6b168d5b53939e7d9/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/cassul/.gradle/caches/transforms-3/4be25d346253d0b6b168d5b53939e7d9/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cassul/.gradle/caches/transforms-3/b991e0d76cee696efc06cadec580139b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cassul/.gradle/caches/transforms-3/b991e0d76cee696efc06cadec580139b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cassul/.gradle/caches/transforms-3/b991e0d76cee696efc06cadec580139b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
